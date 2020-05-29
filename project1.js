@@ -22,8 +22,9 @@ let appData = {
     savings:false,
 };
 
+// let testOut1 = appData.expenses.budjetEntry1;
+//console.log (testOut1);
 
 
-
-
-console.log (expenses.budjetEntry1);
+let consumption  = (money - appData.expenses.budjetEntry1 - appData.expenses.budjetEntry2) / 30;
+alert (consumption);
