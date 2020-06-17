@@ -8,3 +8,15 @@ object1 = {
 // console.log (b);
 
 console.log (object1.sss);
+
+// let isMoneySavings = confirm ("question");
+// console.log (isMoneySavings);
+
+// console.log (userName);
+console.log (userName1);
+let userName = "Вася";
+
+
+
+var userName1 = "Петя";
+
